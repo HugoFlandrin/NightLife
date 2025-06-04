@@ -31,7 +31,7 @@ This game exists purely for entertainment; it is intentionally wacky and borderl
 To play NightLife, follow these steps:
 
 1. Download the ZIP file from the following link:  
-   [Download NightLife](https://drive.google.com/drive/folders/1wRY7lEiEhzWeysjI27b1hX6zzoCVHqxm?usp=sharing)
+   [Download NightLife](https://hugoflandrin.itch.io/nightlife)
 2. Extract the downloaded files.
 3. Launch `NightLife.exe` and enjoy the game!
 
