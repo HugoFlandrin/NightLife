@@ -1,53 +1,53 @@
 # NightLife
 
-Welcome to NightLife! This project is a video game developed in five days as part of a hackathon.
+Bienvenue sur NightLife ! Ce projet est un jeu vidéo développé en cinq jours dans le cadre d'un hackathon.
 
 <img src="img/NightLife.png" width="800" />
 
-The goal was to create a project in five days based on a given theme : nightlife. Our team chose to develop a unique video game using Unreal Engine 5.
+L'objectif était de créer un projet en cinq jours à partir d'un thème donné : nightlife. Notre équipe a choisi de développer un jeu vidéo original avec Unreal Engine 5.
 
 ---
 
-## Game Overview
+## Présentation du jeu
 
-NightLife is a 3D first-person video game centered around nightlife and the choices players make throughout their adventure. 
+NightLife est un jeu vidéo 3D à la première personne centré sur la vie nocturne et les choix que font les joueurs au fil de leur aventure.
 
-The game begins in a nightclub. From the start, players can explore the environment and make their first choices. They can talk to partygoers, grab a drink at the bar, or even pick a fight with the bouncer - if they dare!
+Le jeu commence dans une boîte de nuit. Dès le départ, les joueurs peuvent explorer l'environnement et faire leurs premiers choix. Ils peuvent parler aux fêtards, prendre un verre au bar, ou même chercher la bagarre avec le videur — s'ils l'osent !
 
 <img src="img/NightClub.png" width="400" />
 
-Once outside the club, the player must find their way home, wandering through the city in the dead of night. However, unexpected events await them on their journey...
+Une fois sorti de la boîte, le joueur doit retrouver son chemin jusque chez lui, errant à travers la ville en pleine nuit. Cependant, des événements inattendus l'attendent au cours de son périple...
 
-The game features immersive audio, with all voices in French, enhancing the comedic and absurd atmosphere.
+Le jeu propose un son immersif, avec toutes les voix en français, renforçant l'atmosphère comique et absurde.
 
-NightLife is filled with Easter eggs and inside jokes, making it a fun and unpredictable experience. 
+NightLife est rempli d'easter eggs et de private jokes, ce qui en fait une expérience amusante et imprévisible.
 
-This game exists purely for entertainment; it is intentionally wacky and borderline ridiculous. It is not meant to provoke deep thought - only laughter!
+Ce jeu existe purement pour le divertissement ; il est volontairement déjanté et à la limite du ridicule. Il n'a pas vocation à faire réfléchir, seulement à faire rire !
 
 ---
 
 ## Installation 🔧
 
-To play NightLife, follow these steps:
+Pour jouer à NightLife, suivez ces étapes :
 
-1. Download the ZIP file from the following link:  
-   [Download NightLife](https://hugoflandrin.itch.io/nightlife)
-2. Extract the downloaded files.
-3. Launch `NightLife.exe` and enjoy the game!
+1. Téléchargez le fichier ZIP depuis le lien suivant :  
+   [Télécharger NightLife](https://hugoflandrin.itch.io/nightlife)
+2. Extrayez les fichiers téléchargés.
+3. Lancez `NightLife.exe` et profitez du jeu !
 
 ---
 
-## How to Play? 🎮
+## Comment jouer ? 🎮
 
-Upon launching the game, you will arrive at the main menu. 
-- The "Controls" tab provides an overview of the keybindings.
-- Click "Play" to start your adventure.
+Au lancement du jeu, vous arrivez sur le menu principal.
+- L'onglet « Contrôles » présente un récapitulatif des touches.
+- Cliquez sur « Play » pour démarrer l'aventure.
 
 <img src="img/MainMenu.png" width="400" />
 
 ---
 
-## Authors 👥
+## Auteurs 👥
 
 - [Hugo Flandrin](https://github.com/HugoFlandrin)
 - [Quentin Gros](https://github.com/quent1grs)
@@ -56,5 +56,4 @@ Upon launching the game, you will arrive at the main menu.
 
 ---
 
-Enjoy your adventure in NightLife! 🌙
-
+Profitez bien de votre aventure dans NightLife ! 🌙
